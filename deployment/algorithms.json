@@ -1,0 +1,12 @@
+{
+  "algorithms": [
+    {
+      "name": "HelloWorld",
+      "startupRestInterfaceOnly": false,
+      "acceptsTerminationByUser": false,
+      "workingDirectory": "../algorithms",
+      "command": "SimpleExample.exe",
+      "arguments": "-u {ApiUrl}"
+    }
+  ]
+}
